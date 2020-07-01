@@ -139,9 +139,8 @@ conversion utilities for the following models:
 
     task_summary
     model_summary
-    training
     preprocessing
-    serialization
+    training
     model_sharing
     multilingual
 
@@ -174,6 +173,7 @@ conversion utilities for the following models:
     main_classes/pipelines
     main_classes/optimizer_schedules
     main_classes/processors
+    main_classes/trainer
     model_doc/auto
     model_doc/encoderdecoder
     model_doc/bert
